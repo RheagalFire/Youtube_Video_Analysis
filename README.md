@@ -86,5 +86,7 @@ And The Overall Analysis indicates that IF Salary Were A Person is more Popular.
 <br>
 From the Above Graph it is safe to say that **Ayush gets more posative comments than Barkha** and **both of them together is praised very well**. Also **Barkha seems to get a liitle bit more criticism than Ayush.**
 
-
-
+## Difficulties Faced
+- Since the comments were in Hinglish it is difficult to find a very good model that is trained on similar kind of data. 
+- Emojis are capable of changing the sentiment of the text, they should be applied very carefully while doing sentiment classification. 
+- Promotion Links and in general links cause some amount of problem in sentiment classification.
